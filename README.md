@@ -1,1 +1,1 @@
- OnionArchitecture mimari,Entity Framework,Code First,Mssql,Repository Pattern,CQRS
+ Onion Architecture,CQRS,Entity Framework,Code First,Mssql,Repository Pattern
