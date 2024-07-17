@@ -9,7 +9,7 @@ namespace OnionArchitectureApp.Application.Exceptions
     public class ValidationException : Exception
     {
 
-        public ValidationException() : this("Validation error occured")
+        public ValidationException() : this("Validation error occured")//
         {
 
         }
